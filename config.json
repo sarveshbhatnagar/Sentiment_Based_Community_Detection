@@ -1,0 +1,14 @@
+{
+"user":"7RnnUx2ZaexmeA",
+"key":"E8VCZFWqvkAdX0c3g-itEc5IhRo",
+"source":"reddit",
+"subreddit":"nosleep",
+"getData":1,
+"order":"top",
+"limit":50,
+"classifier":"default",
+"dataFolderPath":"./data/raw",
+"classifiedFolderPath":"./data/classified",
+"associatedFolderPath":"./data/associated",
+"communitiesFolderPath":"./data/communities"
+}
